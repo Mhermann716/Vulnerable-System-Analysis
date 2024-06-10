@@ -27,9 +27,6 @@ The database server is a centralized computer system that stores and manages lar
 The risks assessed took into account the business's data storage and management practices. Potential threats and events were identified based on the likelihood of a security incident due to the system's open access permissions. The severity of these incidents was evaluated in terms of their impact on daily operations.
 
 ## Remediation Strategy
-
-Sure, here's a reworded version of the list of remedies:
-
 ---
 
 - Implement authentication, authorization, and auditing mechanisms to ensure only authorized users can access the database server.
