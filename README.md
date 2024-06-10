@@ -34,5 +34,3 @@ Risks that were measured considered the data storage and management procedures o
 - IP allow-listing to corporate offices to prevent random users from the internet from connecting to the database.
 
 ---
-
-This format is clean, organized, and easy to read, making it suitable for a GitHub portfolio project.
